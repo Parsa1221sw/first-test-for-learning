@@ -1,0 +1,32 @@
+[
+    {
+        "name": "parsa",
+        "nation code": "01213133",
+        "user name": "alisa",
+        "password": "ali21",
+        "game": [
+            "gta",
+            "FIFA 27",
+            "caush"
+        ]
+    },
+    {
+        "name": "sara",
+        "nation code": "23234",
+        "user name": "sara",
+        "password": "1221",
+        "game": [
+            "FIFA 27",
+            "gta"
+        ]
+    },
+    {
+        "name": "bahram",
+        "nation code": "1233232",
+        "user name": "bahran",
+        "password": "1234",
+        "game": [
+            "gta"
+        ]
+    }
+]
